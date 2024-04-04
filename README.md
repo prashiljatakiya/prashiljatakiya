@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashiljatakiya](https://github.com/prashiljatakiya)
 
-- 💬 Ask me about **HTML, CSS , Entrepreneurship & Business**
+- 💬 Ask me about **HTML, CSS , Data Science, Entrepreneurship & Business**
 
 - 📫 How to reach me **prashiljatakiya4@gmail.com**
 
