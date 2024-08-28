@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on :Accessible Legal Assistance through NLP:<br>👯‍♂️I'm looking to collaborate on: Data science and Data analytics Projects<br>🤝I'm looking for help with : Data visualization tools like Power BI <br>🌱I'm currently learning: Data analytics tools & Recommendation Systems<br>☁️Ask me about: AI/ML, HTML & CSS, Sports & Entrepreneurship<br>⚡Fun Fact: I'm a great dancer as well as a good Football Player 
+🔭I'm currently working on :Accessible Legal Assistance through NLP<br>👯‍♂️I'm looking to collaborate on: Data science and Data analytics Projects<br>🤝I'm looking for help with : Data visualization tools like Power BI <br>🌱I'm currently learning: Data analytics tools(PowerBI) & Recommendation Systems<br>☁️Ask me about: AI/ML, HTML & CSS, Sports & Entrepreneurship<br>⚡Fun Fact: I'm a great dancer as well as a good Football Player 
 
 
 ## 🌐 Socials:
